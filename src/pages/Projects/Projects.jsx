@@ -21,7 +21,7 @@ const projects = [
     src: "tree.jpg",
     link: "https://i.postimg.cc/43f4GH4z/portfolio-nits.png",
     color: "#8f89ff",
-    githubLink: "#",
+    githubLink: "https://github.com/Nitesh-Lad/portfolio",
     liveLink: "https://portfolio-niteshlad.vercel.app/",
   },
   {
