@@ -22,7 +22,7 @@ const projects = [
     link: "https://i.postimg.cc/43f4GH4z/portfolio-nits.png",
     color: "#8f89ff",
     githubLink: "#",
-    liveLink: "#",
+    liveLink: "https://portfolio-niteshlad.vercel.app/",
   },
   {
     title: "🎵 Spotify Clone",
